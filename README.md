@@ -13,6 +13,13 @@ Blueprint jaringan **KongSERVER** yang menggabungkan:
 - **NAS / Backup Storage** → Penyimpanan terpusat.
 - **UPS + Panel Listrik** → Distribusi daya aman & terisolasi.
 
+---
+
+
+![KongSERVER Branding](https://raw.githubusercontent.com/kongali1720/kongali1720.github.io/main/kongserver.png)
+
+---
+
 ## 🗺️ Diagram Jaringan
 ![Network Diagram](diagram.png)
 
