@@ -1,9 +1,13 @@
+<div align="center">
+
 # 🖥️ KongSERVER Network Blueprint
 
 ![KongSERVER Logo](https://img.shields.io/badge/KongSERVER-Network-blue?style=for-the-badge&logo=server&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Operational-brightgreen?style=for-the-badge&logo=linux)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Cat7](https://img.shields.io/badge/Cable-Cat7-orange?style=for-the-badge&logo=ethernet)
+
+</div>
 
 ## 📌 Tentang
 Blueprint jaringan **KongSERVER** yang menggabungkan:
@@ -15,6 +19,15 @@ Blueprint jaringan **KongSERVER** yang menggabungkan:
 
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZxcXk3cWVvM3ZqbmtrYTM3ZGN4bjg2YnQzeGpkODBmOHdzNWJlZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WTO8QA0mX2Cfw5vhkp/giphy.gif"
+       alt="KongSERVER Active"
+       width="300"
+       style="border-radius: 50%;">
+</div>
+
+
+---
 
 ![KongSERVER Branding](https://raw.githubusercontent.com/kongali1720/kongali1720.github.io/main/kongserver.png)
 
@@ -184,7 +197,7 @@ Support with ☕ so I can buy 🍜 and keep being 🧠!
 |:--------|:-------|
 | GitHub  | [kongali1720](https://github.com/kongali1720) |
 | Email   | [kongali1720@gmail.com](mailto:kongali1720@gmail.com) |
-| Site    | [Coming soon — stay curious... ](https://kongali1720.github.io) |
+| Site    | [younext&Deutsche-bank](https://younext.cloud) |
 
 ---
 
