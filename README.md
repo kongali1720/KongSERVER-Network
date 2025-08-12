@@ -20,9 +20,6 @@ Blueprint jaringan **KongSERVER** yang menggabungkan:
 
 ---
 
-## 🗺️ Diagram Jaringan
-![Network Diagram](diagram.png)
-
 ## ⚡ Topologi
 ```
 Internet/ISP
